@@ -40,7 +40,7 @@ section {
 }
 
 section:first-child {
-	background-image: url("./images/bg-curvy-desktop.svg");
+	background-image: url("./Fylo-dark-landing-page./images/bg-curvy-desktop.svg");
 	background-repeat: no-repeat;
 	background-position: center 600px;
 }
@@ -355,7 +355,7 @@ footer nav ul:last-child li a:active {
 	}
 
 	section:first-child {
-		background-image: url("./images/bg-curvy-mobile.svg");
+		background-image: url("./Fylo-dark-landing-page./images/bg-curvy-mobile.svg");
 		background-position: center 655px;
 		background-size: contain;
 	}
