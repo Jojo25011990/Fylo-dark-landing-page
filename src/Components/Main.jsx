@@ -191,7 +191,7 @@ const Main = () => {
 						noValidate
 						onSubmit={handleSubmit}
 					>
-						<label htmlFor="input-email" className="hidden">
+						<label htmlFor="input-email" className="sr-only">
 							Email Address
 						</label>
 						<input

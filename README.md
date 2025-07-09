@@ -36,6 +36,7 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Flexbox
+-   Grid
 -   Desktop-first workflow
 -   Tailwind CSS
 -   [React](https://reactjs.org/) - JS library
